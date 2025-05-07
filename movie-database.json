@@ -1,0 +1,16 @@
+{
+    "Title": "A League of Their Own",
+    "Year": 1992,
+    "isAvailable": false,
+    "Genres": [
+        "Sports", "Comedy", "Action", "Drama", "War", "Comedy Drama", "Children's Film"
+        ],
+    "Cast": [
+        {"Name": "Geena Davis", "Role": "Dottie Hinson"},
+        {"Name": "Tom Hanks", "Role": "Jimmy Dugan"}, 
+        {"Name": "Lori Petty", "Role": "Kit Keller"},
+        {"Name": "Madonna", "Role": "Mae Mordabito"}, 
+        {"Name": "Rosie O'Donnell", "Role": "Doris Murphy"},
+        {"Name": "Megan Cavanagh", "Role": "Marla Hooch"}
+    ]
+}
